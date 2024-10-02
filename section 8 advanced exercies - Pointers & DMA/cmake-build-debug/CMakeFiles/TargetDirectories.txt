@@ -1,3 +1,0 @@
-C:/Users/pc/Desktop/c pokazivaci kredit/c-pokazivaci-kurs/section 8 advanced exercies - Pointers & DMA/cmake-build-debug/CMakeFiles/section_8_advanced_exercies___Pointers___DMA.dir
-C:/Users/pc/Desktop/c pokazivaci kredit/c-pokazivaci-kurs/section 8 advanced exercies - Pointers & DMA/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/pc/Desktop/c pokazivaci kredit/c-pokazivaci-kurs/section 8 advanced exercies - Pointers & DMA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
